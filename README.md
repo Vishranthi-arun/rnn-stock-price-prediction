@@ -26,6 +26,10 @@ Fit the model and then predict
 
 ## PROGRAM
 ```
+Developed by:VISHRANTHI A
+Reg no.: 212221230124
+```
+```python
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
